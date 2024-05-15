@@ -1,0 +1,23 @@
+Sutep:
+1-
+php artisan migrate
+2-
+php artisan db:seed --class=PermissionTableSeeder
+3-
+php artisan db:seed --class=CreateAdminUserSeeder
+4-
+php artisan serv
+
+
+Owner Acct:
+mohamed@gmail.com
+12345678
+
+
+Acct Gmail
+invoices.management.mvr@gmail.com
+M.r123456789
+
+
+
+
