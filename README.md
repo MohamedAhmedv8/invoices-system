@@ -33,7 +33,7 @@ Key Features:
 To get started, clone this repository.
 
 ```
-git clone https://github.com/MohamedAhmedv8/online-hotel-booking.git
+https://github.com/MohamedAhmedv8/invoices-system
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
