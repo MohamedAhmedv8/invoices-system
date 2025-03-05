@@ -5,13 +5,6 @@
 **Created By :**  Mohamed Ahmed
 **Email :** mohamed.ahmed.rc@gmail.com
 
-Invoice Management System
-
-
-About the Project:
-
-
-This is a fully functional Online Hotel Booking System built with Laravel, designed to provide users with a seamless and efficient booking experience.
 
 Key Features:
 - Invoice Creation: Users can add new invoices by specifying essential details such as invoice number, amount, customer name, and date.
